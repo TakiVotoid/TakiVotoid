@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Codevka/Codevka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi here 👋
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codevka&show_icons=true&hide_title=true&hide_border=true&theme=nord" />
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevka&layout=compact&show_icons=true&hide_border=true&theme=nord" />
